@@ -171,6 +171,7 @@ const moviesearch = function(data){
     });
 };
 
+//export functions
 module.exports = {
     concertsearch: concertsearch,
     songsearch: songsearch,
